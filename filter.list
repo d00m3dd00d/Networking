@@ -21,3 +21,4 @@ https://iplists.firehol.org/files/urandomusto_ssh.ipset
 https://iplists.firehol.org/files/urandomusto_telnet.ipset
 https://iplists.firehol.org/files/urlvir.ipset
 https://iplists.firehol.org/files/uscert_hidden_cobra.ipset
+https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
