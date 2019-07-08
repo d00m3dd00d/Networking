@@ -13,6 +13,7 @@ https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/normshield_high_attack.ipset
 https://iplists.firehol.org/files/normshield_high_bruteforce.ipset
+https://iplists.firehol.org/files/normshield_all_suspicious.ipset
 https://iplists.firehol.org/files/ransomware_online.ipset
 https://iplists.firehol.org/files/ransomware_rw.ipset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
@@ -23,3 +24,4 @@ https://iplists.firehol.org/files/urlvir.ipset
 https://iplists.firehol.org/files/uscert_hidden_cobra.ipset
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://iplists.firehol.org/files/bi_any_0_1d.ipset
